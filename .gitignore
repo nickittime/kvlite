@@ -1,0 +1,5 @@
+build*/
+*.aof
+*.aof.tmp
+.vscode/
+.idea/
